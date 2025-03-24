@@ -1,0 +1,5 @@
+language fundamentals are 
+
+1. identifiers
+2.data types 
+3. varibles

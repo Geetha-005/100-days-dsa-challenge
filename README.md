@@ -171,3 +171,4 @@ Practice on CodeForces, AtCoder, or LeetCode Contests.
 System Design Basics (Load Balancing, Caching)
 
 Revise Concepts & Mistakes
+most asked interview patterns to practice

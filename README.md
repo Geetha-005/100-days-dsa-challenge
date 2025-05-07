@@ -172,3 +172,5 @@ System Design Basics (Load Balancing, Caching)
 
 Revise Concepts & Mistakes
 most asked interview patterns to practice
+
+daily system design and core computer science subjects

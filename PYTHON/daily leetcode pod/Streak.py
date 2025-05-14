@@ -82,4 +82,10 @@ print(findEvenNumbers([2,1,3,0]))
         for v in nums:
             res = (res + v) % mod
         return res
+
+
+# 14-05-2025
+
+
+# learnt the sliding problem approaches and solve the problems using the fixed sliding window
         
